@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F60A00EA-6BA9-44A3-895F-543A25C14674}|DoConnectWebUserApi\\DoConnectWebUserApi.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectwebuserapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F60A00EA-6BA9-44A3-895F-543A25C14674}|DoConnectWebUserApi\\DoConnectWebUserApi.csproj|solutionrelative:doconnectwebuserapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F60F928-AA69-48B5-8892-208FD06C131E}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F60F928-AA69-48B5-8892-208FD06C131E}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F60F928-AA69-48B5-8892-208FD06C131E}|DoConnectService\\DoConnectService.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F60F928-AA69-48B5-8892-208FD06C131E}|DoConnectService\\DoConnectService.csproj|solutionrelative:doconnectservice\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectrepository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectrepository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|c:\\users\\vnagaraj\\source\\repos\\doconnectwebuserapi\\doconnectrepository\\data\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6296E946-8A10-4C4C-8A0D-AB538B6A3194}|DoConnectRepository\\DoConnectRepository.csproj|solutionrelative:doconnectrepository\\data\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectService\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectService\\Services\\IUserService.cs",
+              "RelativeToolTip": "DoConnectService\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:51:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DoConnectRepository\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:43:33.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersDb.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Data\\UsersDb.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Data\\UsersDb.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Data\\UsersDb.cs",
+              "RelativeToolTip": "DoConnectRepository\\Data\\UsersDb.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:37:01.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectWebUserApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "DoConnectWebUserApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectWebUserApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "DoConnectWebUserApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:27:31.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectService\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DoConnectService\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectService\\Services\\UserService.cs",
+              "RelativeToolTip": "DoConnectService\\Services\\UserService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:27:29.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DoConnectRepository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\vnagaraj\\source\\repos\\DoConnectWebUserApi\\DoConnectRepository\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DoConnectRepository\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:27:27.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

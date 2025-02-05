@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "NJNiogXQfS91YEc5fP7P2B0DC7xW46w4EJhj03zM61w=",
+  "Source": "DoConnectWebUserApi",
+  "BasePath": "_content/DoConnectWebUserApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
